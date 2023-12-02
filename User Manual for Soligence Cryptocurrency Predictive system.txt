@@ -1,0 +1,59 @@
+User Manual for Soligence Cryptocurrency Prediction System
+Introduction:
+The Soligence Cryptocurrency Prediction System is designed to provide users with accurate and data-driven predictions on the future prices of various cryptocurrencies. This user-friendly system is developed with the intention to assist traders and investors in making informed decisions in the volatile cryptocurrency market.
+
+System Features:
+Exploratory Data Analysis (EDA): View a comprehensive analysis of the selected cryptocurrency.
+Latest Crypto News: Stay updated with the latest news related to your chosen cryptocurrency.
+Buy and Sell Signal: Get insights into the best times to buy or sell a cryptocurrency.
+Crypto Trends: Understand correlations and trends between different cryptocurrencies.
+Crypto Detection: Analyze the moving averages of selected cryptocurrencies.
+Up and Down Prediction: Predict if a selected cryptocurrency's price will go up or down.
+Crypto Price Prediction: Predict the high and low prices of a selected cryptocurrency for the next day.
+Getting Started:
+Main Menu: Upon launching the system, users will be presented with the main menu on the sidebar. This menu allows users to navigate between different features of the system.
+
+Data Loading: The system will automatically load the required data from the "Crypto_simi.csv" file. Ensure this file is present in the correct directory.
+
+How to Use:
+Exploratory Data Analysis (EDA):
+
+Select "EDA" from the sidebar menu.
+Choose a cryptocurrency from the dropdown.
+Adjust the date range to analyze data for specific periods.
+View the line chart representing the cryptocurrency's price over the selected period.
+Latest Crypto News:
+
+Select "News" from the sidebar menu.
+Choose a cryptocurrency or "All" from the dropdown to view the latest news related to it.
+Buy and Sell Signal:
+
+Select "Buy and Sell Signal" from the sidebar menu.
+Choose a cryptocurrency from the dropdown.
+The system will provide buy/sell signals based on the golden cross and death cross strategies.
+Crypto Trends:
+
+Select "Trends" from the sidebar menu.
+Choose a cryptocurrency to analyze its correlations with other cryptocurrencies.
+Crypto Detection:
+
+Select "Detection" from the sidebar menu.
+Choose a cryptocurrency and adjust the moving average window.
+View the line chart representing the cryptocurrency's price and its moving average over time.
+Up and Down Prediction:
+
+Select "Up and Down Prediction" from the sidebar menu.
+Choose one or more cryptocurrencies from the multi-select dropdown.
+The system will predict if the selected cryptocurrency's price will go up or down.
+Crypto Price Prediction:
+
+Select "Prediction" from the sidebar menu.
+Choose a cryptocurrency.
+The system will provide predictions for the high and low prices of the selected cryptocurrency for the next day.
+Recommendations for Best Use:
+Data Update: Ensure the data in "Crypto_simi.csv" is regularly updated for the most accurate predictions.
+Regularly Monitor News: Cryptocurrency prices are highly influenced by news. Regularly check the "News" section to stay updated.
+Use Multiple Features: To make an informed decision, utilize multiple features of the system rather than relying on just one.
+Troubleshooting:
+Data Not Loading: Ensure the "Crypto_simi.csv" file is present in the correct directory.
+Incorrect Predictions: Remember, no prediction system is foolproof. Always use predictions as guidance and not absolute truths.
